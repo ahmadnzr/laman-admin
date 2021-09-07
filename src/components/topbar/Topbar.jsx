@@ -7,7 +7,7 @@ const Topbar = () => {
         <div className="topbar">
             <div className="topbarWrapper">
                 <div className="topLeft">
-                    <span className="logo">lamaadmin</span>
+                    <span className="logo">Admin Template</span>
                 </div>
                 <div className="topRight">
                     <div className="topbarIconContainer">
@@ -21,7 +21,7 @@ const Topbar = () => {
                     <div className="topbarIconContainer">
                         <Settings/>
                     </div>
-                    <img src="img/avatar.png" alt="" className="topAvatar" />
+                    <img src="/img/avatar.png" alt="" className="topAvatar" />
                 </div>
             </div>
         </div>
